@@ -1732,7 +1732,7 @@ document.addEventListener('DOMContentLoaded', () => {
    {
       name: 'Cookie Run',
       link: 'https://now.gg/apps/devsisters-corporation/3475/cookie-run.html',
-      image: '/assets/media/icons/eaglercrack.png',
+      image: '/assets/media/icons/cookie.png',
       categories: ['all'],
     },
   ]
