@@ -1729,6 +1729,12 @@ document.addEventListener('DOMContentLoaded', () => {
       image: '/assets/media/icons/eaglercrack.png',
       categories: ['all'],
     },
+   {
+      name: 'Cookie Run',
+      link: 'https://now.gg/apps/devsisters-corporation/3475/cookie-run.html',
+      image: '/assets/media/icons/eaglercrack.png',
+      categories: ['all'],
+    },
   ]
 
   function saveToLocal(path) {
